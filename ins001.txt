@@ -1,7 +1,14 @@
 -----------------------------
 Title: Asterism
+
+Category: EP
+
+Deluxe: No
+Rerelease: No
+
 Artist: UGTF
 Catalog: INS001
+
 Release date: Nov 06, 2025
 -----------------------------
 
@@ -24,4 +31,5 @@ All songs written and performed by UGTF
 -----------------------------
 
 © 2025 InSnow ⁂
-
+https://insnow.straw.page/
+https://ugtf.bandcamp.com/album/asterism
